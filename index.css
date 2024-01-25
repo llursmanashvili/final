@@ -1013,9 +1013,9 @@ a.buy-btn{
   font-weight: 900;
   padding-bottom: 10%;
 }
-@media screen and (max-width){
+@media screen and (max-width:900px){
   .about{
-    padding-top: 25%;
+    padding-top: 30%;
     font-size: small;
     font-weight: 900;
     padding-bottom: 10%;
@@ -1276,6 +1276,7 @@ hr {
 padding-top: 10%;
 padding-bottom: 10%;
 display: flex;
+justify-content: center;
 flex-direction: row;
 }
 @media screen and (max-width: 900px) {
